@@ -7,6 +7,7 @@
 [![Maven Central Repo](https://img.shields.io/maven-central/v/com.ctrip.framework.apollo/apollo.svg)](https://mvnrepository.com/artifact/com.ctrip.framework.apollo/apollo-client)
 [![codecov.io](https://codecov.io/github/ctripcorp/apollo/coverage.svg?branch=master)](https://codecov.io/github/ctripcorp/apollo?branch=master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fqianxunke%2Fapollo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fqianxunke%2Fapollo?ref=badge_shield)
 
 
 Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
@@ -142,6 +143,9 @@ Thanks for all the people who contributed to Apollo!
 
 # License
 The project is licensed under the [Apache 2 license](https://github.com/ctripcorp/apollo/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fqianxunke%2Fapollo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fqianxunke%2Fapollo?ref=badge_large)
 
 # Known Users
 
